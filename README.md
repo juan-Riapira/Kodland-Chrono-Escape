@@ -3,6 +3,15 @@
 **Chrono Escape** es un juego de plataformas 2D hecho en **Python** usando **Pygame**, donde el jugador debe escapar de niveles llenos de enemigos, plataformas peligrosas y trampas mortales. ¡Si caes, mueres!
 
 ---
+## 🎮 Controles del Juego
+
+| Tecla         | Acción                                |
+|---------------|----------------------------------------|
+| `←` / `→`     | Mover al jugador a izquierda/derecha   |
+| `ESPACIO`     | Saltar                                 |
+| `F`           | Disparar                               |
+| `ESC`         | Pausar el juego / Volver al menú       |
+| `ENTER`       | Iniciar el juego desde el menú         |
 
 ## 🎮 Características
 
